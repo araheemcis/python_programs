@@ -1,0 +1,9 @@
+first = 'Abdul'
+last = 'Raheem'
+Full_Name = first + '[' + last + '] is a coder '
+# Same can be done using formatted strings
+# formated strings
+Full_Name2 = f'{first}[{last}] is a coder'
+
+print(Full_Name)
+print(Full_Name2)
