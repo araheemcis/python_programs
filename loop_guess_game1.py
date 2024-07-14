@@ -14,4 +14,4 @@ while count < 4:
 if guess == guess1:
     print(f"you guess the correct number {guess1}")
 else:
-    print(f"sorry you were not able to guess it")
+    print(f"sorry you were not able to guess it {guess1}")

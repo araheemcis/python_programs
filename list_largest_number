@@ -1,0 +1,6 @@
+numbers = [10,9,30,18,20]
+largest = 0
+for x in numbers:
+    if x > largest:
+      largest = x
+print(largest)
